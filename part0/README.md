@@ -1,6 +1,6 @@
 ## Part 0
 
-### Exercise 0.4 New note
+### Exercise 0.4 new note
 
 ![exercise 0.4](./0.4_new_note.png)
 
